@@ -1,0 +1,10 @@
+F:\Coding Files(Sources)\IpPingger\Ip Pigger-Geo Location\Ip Pigger-Geo Location\bin\Debug\Ip Pigger-Geo Location.exe.config
+F:\Coding Files(Sources)\IpPingger\Ip Pigger-Geo Location\Ip Pigger-Geo Location\bin\Debug\Ip Pigger-Geo Location.exe
+F:\Coding Files(Sources)\IpPingger\Ip Pigger-Geo Location\Ip Pigger-Geo Location\bin\Debug\Ip Pigger-Geo Location.pdb
+F:\Coding Files(Sources)\IpPingger\Ip Pigger-Geo Location\Ip Pigger-Geo Location\obj\Debug\Ip Pigger-Geo Location.csprojAssemblyReference.cache
+F:\Coding Files(Sources)\IpPingger\Ip Pigger-Geo Location\Ip Pigger-Geo Location\obj\Debug\Ip_Pigger_Geo_Location.Form1.resources
+F:\Coding Files(Sources)\IpPingger\Ip Pigger-Geo Location\Ip Pigger-Geo Location\obj\Debug\Ip_Pigger_Geo_Location.Properties.Resources.resources
+F:\Coding Files(Sources)\IpPingger\Ip Pigger-Geo Location\Ip Pigger-Geo Location\obj\Debug\Ip Pigger-Geo Location.csproj.GenerateResource.cache
+F:\Coding Files(Sources)\IpPingger\Ip Pigger-Geo Location\Ip Pigger-Geo Location\obj\Debug\Ip Pigger-Geo Location.csproj.CoreCompileInputs.cache
+F:\Coding Files(Sources)\IpPingger\Ip Pigger-Geo Location\Ip Pigger-Geo Location\obj\Debug\Ip Pigger-Geo Location.exe
+F:\Coding Files(Sources)\IpPingger\Ip Pigger-Geo Location\Ip Pigger-Geo Location\obj\Debug\Ip Pigger-Geo Location.pdb
